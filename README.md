@@ -6,6 +6,6 @@ The electric power grid is the network infrastructure responsible for the genera
 ```
 
 
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+ttt) `#f03c15`
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) fff`#f03c15`
 
 
